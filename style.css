@@ -1,0 +1,22 @@
+body{
+    background-image:url("greenImage.webp");
+    background-size: cover;
+}
+
+h4{
+    color:green;
+    font-family:'Times New Roman', Times, serif;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+}
+
+label{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+
+button{
+    font-family:'Times New Roman', Times, serif;
+}
+
